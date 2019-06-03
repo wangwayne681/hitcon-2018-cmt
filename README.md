@@ -1,7 +1,6 @@
 # HITCON 2018 CMT
 ## 攤位資安挑戰賽 by 104crop
 [招募網頁](https://infosecteam.104.com.tw/)<br />
-[writeup](https://github.com/104corp/hitcon-2018-writeup/)
 
 ## Hint for all
 flag length: 56<br />
